@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+[![sid12c's GitHub stats](https://github-readme-stats-dun-kappa.vercel.app/api?username=sid12c)](https://github.com/sid12c/github-readme-stats&show_icons=true?theme=transparent)
+[![Top Langs](https://github-readme-stats-dun-kappa.vercel.app/api/top-langs/?username=sid12c)](https://github.com/sid12c/github-readme-stats&layout=compact?theme=transparent)
+
+
 <!--
 **sid12c/sid12c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
