@@ -1,6 +1,6 @@
 ### Hi there 👋
 ![Sidharth's GitHub stats](https://github-readme-stats-dun-kappa.vercel.app/api?username=sid12c&show_icons=true&theme=transparent&hide_rank=true&hide=issues&border_radius=8&cache_seconds=3600)
-![Top Langs](https://github-readme-stats-dun-kappa.vercel.app/api/top-langs/?username=sid12c&layout=compact&theme=transparent&border_radius=8&langs_count=10&cache_seconds=3600)
+![Top Langs](https://github-readme-stats-dun-kappa.vercel.app/api/top-langs/?username=sid12c&layout=compact&theme=transparent&border_radius=8&langs_count=10&cache_seconds=360)
 
 <!--
 **sid12c/sid12c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
